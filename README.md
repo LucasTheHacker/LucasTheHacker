@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LucasTheHacker
 - 👀 I’m interested in computer science and medicine
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning web development 
+- 💞️ I’m looking to collaborate on a company 
+- 📫 How to reach me: lucasgabriel2506@gmail.com
 
 <!---
 LucasTheHacker/LucasTheHacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
