@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LucasTheHacker
 - 👀 I’m interested in computer science and medicine
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on a company 
+- 🌱 I’m currently learning programming logic
+- 💞️ I’m working at Banco do Brasil
 - 📫 How to reach me: lucasgabriel2506@gmail.com
 
 <!---
