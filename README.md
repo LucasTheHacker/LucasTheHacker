@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LucasTheHacker
-- 👀 I’m interested in computer science and medicine
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning Java Cloud
 - 💞️ I’m working at Banco do Brasil
 - 📫 How to reach me: lucasgabriel2506@gmail.com or + 55 (61) 99302-9966
